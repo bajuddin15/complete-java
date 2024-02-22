@@ -1,14 +1,14 @@
 # complete-java-fullstack
 
 ## Roadmap -
-1. Java Basics
+1. [Java Basics](#java-basics)
 2. OOPs
 3. Collection Framwork
 4. Data Structures & Algorithms
 5. Spring Boot
 6. Additional Tools
 
-### 1. Java Basics -
+### 1. Java Basics <a name="java-basics"></a> -
 1. Variable & Data Types
 2. Conditional Statement
 3. Loops
