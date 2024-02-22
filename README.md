@@ -8,7 +8,7 @@
 5. Spring Boot
 6. Additional Tools
 
-### 1. Java Basics <a name="java-basics"></a> -
+### 1. <a name="java-basics">Java Basics</a> -
 1. Variable & Data Types
 2. Conditional Statement
 3. Loops
