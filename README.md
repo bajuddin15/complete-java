@@ -9,14 +9,14 @@
 6. Additional Tools
 
 ### 1. <a name="java-basics">Java Basics</a> -
-1. Variable & Data Types
-2. Conditional Statement
-3. Loops
-4. Arrays & Strings
-5. Exception Handling
+1. [Variable & Data Types](#variable-and-data-types)
+2. [Control Statements](#control-statements)
+3. [Loops](#loops)
+4. [Arrays & Strings](#arrays-and-strings)
+5. [Exception Handling](#exception-handling)
 
 
-#### 1. Variable & Data Types -
+#### 1. <a name="variable-and-data-types" style="color:blue">Variable & Data Types</a> -
 - Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
 
 **1. Primitive data types:** The primitive data types include boolean, char, byte, short, int, long, float and double.
